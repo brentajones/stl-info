@@ -44,4 +44,5 @@
 | Schoemehl, Vincent C.     |    1946    |       1981-1993  
 | Bosley, Jr., Freeman R.   |    1954    |       1993-1997  
 | Harmon, Clarence          |    1940    |       1997-2001  
-| Slay, Francis G.          |            |         2001-  
+| Slay, Francis G.          |    1955    |       2001-2017
+| Krewson, Lyda             |    1953    |       2017-
